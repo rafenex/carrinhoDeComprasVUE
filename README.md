@@ -1,24 +1,2 @@
-# project5-shopping-bag-finished
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/88802551/193897953-f3bad7cb-e593-4be2-b7dc-ca89785c386a.png)
+![image](https://user-images.githubusercontent.com/88802551/193897988-79c1a154-323c-42b0-b308-250b4db79aab.png)
